@@ -6,7 +6,7 @@ Support Full version of Kali Linux
 
 Minimum Requirments Of Kali Linux
 ---------------------------------
-install application
+install necessary application
 
 HACKER,S KEYBOARD = https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard
 
