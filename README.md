@@ -26,7 +26,7 @@ git clone https://github.com/sahil-kazama/Kali-Linux-Android.git && cd Kali-Linu
 After Installization Is Successfully 
 
 
-# How to Start Kali Linux Run the Cmd in Termux ?
+# How to Start Kali Linux in Termux ?
 
 (step2) = Run the Cmd in Termux 
 
@@ -58,6 +58,10 @@ Wow now you can use kali linux as gui from vnc
 
 
 # Congratulation You Have Successfully Installed Kali Linux On Android
+
+How to Kill Vncserver on Termux ?
+
+'vncserver -kill :1'
 
 
 # My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
