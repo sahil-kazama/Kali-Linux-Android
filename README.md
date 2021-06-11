@@ -26,9 +26,9 @@ git clone https://github.com/sahil-kazama/Kali-Linux-Android.git && cd Kali-Linu
 After Installization Is Successfully 
 
 
-# Congratulation You Have Successfully Installed Kali Linux On Android
+# How to Start Kali Linux Run the Cmd in Termux ?
 
-(step2) = How to Start Kali Linux Run the Cmd in Termux ?
+(step2) = Run the Cmd in Termux 
 
 'kali'
 
@@ -37,9 +37,9 @@ After Installization Is Successfully
 
 (step3) = Run the Cmd in Kali 'root@loaclhost:~#'
 
-'apt-get update && apt-get dist-upgrade && vncpasswd && vnc'
+'apt-get update && apt-get dist-upgrade && vncpasswd'
 
-(step4) = To run VncServer Ru the Cmd
+(step4) = To run VncServer Run the Cmd
 
 'vnc' or 'vncserver'
 
@@ -55,6 +55,9 @@ Name = kali
 NOW CLICK ON 'Connect' BUTTON and ENTER THE PASSWORD and CLICK OK
 
 Wow now you can use kali linux as gui from vnc
+
+
+# Congratulation You Have Successfully Installed Kali Linux On Android
 
 
 # My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
