@@ -41,7 +41,7 @@ sudo mv gdrive /bin/
 echo "  [DOWNLOAD] -> Downloading Kali Linux ISO....  
 "
 sleep 3s
-gdrive 
+gdrive https://drive.google.com/file/d/1jMB0zMacntYBcqvdefZIBgVEY4V4yfZb/view?usp=sharing
 echo "  [INSTALL] => Installing KALI-LINUX in Android....  
 "
 sleep 3s
