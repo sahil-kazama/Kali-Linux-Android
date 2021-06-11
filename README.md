@@ -2,6 +2,15 @@
 Welcome To Kali Linux
 # Support Of Kali Linux
 Support Full version of Kali Linux 
+
+Gnome Core
+
+Kali Linux Core
+
+Kali Linux Nethunter
+
+Kali Linux Large
+
 #[SAHIL KAZAMA] <~> INDIAN DEVELOPER
 
 
