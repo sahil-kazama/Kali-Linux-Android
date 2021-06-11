@@ -17,7 +17,7 @@ VNC VIEWER = https://play.google.com/store/apps/details?id=com.realvnc.viewer.an
 ---------------------------------
 
 
-# Install Kali Linux
+# How to Install kali Linux ?
 
 (step1) = Run the Cmd in Termux
 
@@ -26,7 +26,7 @@ git clone  && cd Kali-Linux-Android/ && chmod +x * && ./installer.sh
 After Installization Is Successfully 
 
 
-#Congratulation You Have Successfully Installed Kali Linux On Android
+# Congratulation You Have Successfully Installed Kali Linux On Android
 
 (step2) = How to Start Kali Linux Run the Cmd in Termux ?
 
