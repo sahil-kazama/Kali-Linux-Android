@@ -7,7 +7,9 @@ Support Full version of Kali Linux
 
 # SYSTEM MINIMUM REQUIRMENTS
 
-32gb rom/4g ram
+RAM = 4GB
+
+ROM = 32GB
 
 Minimum Requirments Of Kali Linux
 ---------------------------------
