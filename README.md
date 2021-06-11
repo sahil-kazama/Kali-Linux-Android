@@ -4,6 +4,11 @@ Welcome To Kali Linux
 Support Full version of Kali Linux 
 #[SAHIL KAZAMA] <~> INDIAN DEVELOPER
 
+
+# SYSTEM MINIMUM REQUIRMENTS
+
+32gb rom/4g ram
+
 Minimum Requirments Of Kali Linux
 ---------------------------------
 install necessary application
