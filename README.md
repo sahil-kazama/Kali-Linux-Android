@@ -33,4 +33,28 @@ After Installization Is Successfully
 'kali'
 
 
+# How to Start Vncserver in Kali Linux ?
+
+(step3) = Run the Cmd in Kali 'root@loaclhost:~#'
+
+'apt-get update && apt-get dist-upgrade && vncpasswd && vnc'
+
+(step4) = To run VncServer Ru the Cmd
+
+'vnc' or 'vncserver'
+
+
+# How to CONNECT Kali Linux To Vnc Server ?
+
+Now open VNC app And type
+
+Address = localhost:1
+
+Name = kali
+
+NOW CLICK ON 'Connect' BUTTON and ENTER THE PASSWORD and CLICK OK
+
+Wow now you can use kali linux as gui from vnc
+
+
 # My contact +91 8766317909 TALK-LANGUAGE=HINDI/ENGLISH
