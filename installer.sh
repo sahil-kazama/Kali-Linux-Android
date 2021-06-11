@@ -37,7 +37,7 @@ echo "  [CORE] -> Installing Core Packages....
 sleep 5s
 pkg install curl openssl-tool proot wget tar p7zip 
 hash -r
-sudo mv gdrive /bin/
+mv gdrive /bin/
 echo "  [DOWNLOAD] -> Downloading Kali Linux ISO....  
 "
 sleep 3s
@@ -53,9 +53,9 @@ cd kali-linux-arm64/
 mv * $HOME
 cd $HOME
 rm -r kali-linux-arm64/
-sudo mv start-kali.sh kali
+mv start-kali.sh kali
 chmod +x kali
-sudo mv kali /bin/
+mv kali /bin/
 echo "  (RUN) = Now Run Type 'kali' 
   to Start Kali Linux in Android  "
 sleeep 10
