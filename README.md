@@ -12,7 +12,7 @@ Kali Linux Nethunter
 Kali Linux Large
 
 
-# [SAHIL KAZAMA] <~> INDIAN DEVELOPER
+# [SAHIL KAZUYA] <~> INDIAN DEVELOPER
 
 Proude To India
 
