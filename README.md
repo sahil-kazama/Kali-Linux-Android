@@ -26,7 +26,7 @@ git clone https://github.com/sahil-kazama/Kali-Linux-Android.git && cd Kali-Linu
 After Installization Is Successfully 
 
 
-# How to Start Kali Linux in Termux ?
+# How to Run Kali Linux in Termux ?
 
 (step2) = Run the Cmd in Termux 
 
