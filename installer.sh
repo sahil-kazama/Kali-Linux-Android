@@ -35,7 +35,7 @@ apt dist-upgrade
 echo "  [CORE] -> Installing Core Packages....  
 "
 sleep 5s
-pkg install curl openssl-tool proot wget tar p7zip 
+pkg install curl openssl-tool proot wget tar p7zip git
 hash -r
 mv gdrive /bin/
 echo "  [DOWNLOAD] -> Downloading Kali Linux ISO....  
